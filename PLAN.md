@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Sector objetivo** | Empresa pública nacional · energía e hidrometeorología |
+| **Sector objetivo** | Energía e hidrocarburos · telemetría hidrometeorológica e industrial |
 | **Segmento** | A |
-| **Esfuerzo asignado** | 4 % del tiempo de proyectos (dentro del 20 % de energía) |
+| **Esfuerzo asignado** | 3 % del tiempo de proyectos (dentro del 15 % de energía e hidrocarburos) |
 | **Horizonte** | 9-nov-2026 → 31-ene-2027 |
 
 ## Para quién se diseña
