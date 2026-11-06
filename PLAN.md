@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Sector objetivo** | Energía e hidrocarburos · telemetría hidrometeorológica e industrial |
-| **Segmento** | A |
-| **Esfuerzo asignado** | 3 % del tiempo de proyectos (dentro del 15 % de energía e hidrocarburos) |
+| **Segmento** | A (único segmento del plan) |
+| **Esfuerzo asignado** | 6 % del tiempo de proyectos (dentro del 30 % de energía e hidrocarburos) |
 | **Horizonte** | 9-nov-2026 → 31-ene-2027 |
 
 ## Para quién se diseña
